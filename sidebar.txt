@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ykg:home|Door43 (ykg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ykg|d43-ykg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ykg/archive/master.zip|d43-ykg.zip]]
+
+**Recent Changes**
+{{changes>ns = ykg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ykg|Ethnologue data]]
+
